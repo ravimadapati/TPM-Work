@@ -27,3 +27,13 @@ I lead with trust, align stakeholders early, and thrive where structure meets sp
 
 I bring a product mindset to program execution, always thinking from the customer backward.
 
+## Case Studies
+- [Gap Inc. – Driving Enterprise Digital Transformation at Scale](case-studies/gap.md)  
+- [Multiscale – Accelerating AI/ML Adoption in Advanced Manufacturing](case-studies/multiscale.md)  
+
+## About Me
+I bring 20+ years of experience delivering large-scale transformation programs across cloud, infrastructure, and AI/ML adoption.  
+I focus on bridging technical execution with business outcomes, aligning engineering realities with executive priorities, and ensuring measurable ROI on every program.  
+
+For my full professional background, please see my [LinkedIn profile](https://www.linkedin.com/in/ravimadapati).  
+
