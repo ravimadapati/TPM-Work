@@ -35,7 +35,8 @@ I bring a product mindset to program execution, always thinking from the custome
 I bring 20+ years of experience delivering large-scale transformation programs across cloud, infrastructure, and AI/ML adoption.  
 I focus on bridging technical execution with business outcomes, aligning engineering realities with executive priorities, and ensuring measurable ROI on every program.  
 
-For my full professional background, please see my [LinkedIn profile](https://www.linkedin.com/in/ravimadapati).  
+📄 [Download TPM Summary (PDF)](Ravi_Madapati_TPM_Summary.pdf)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ravimadapati)  
 
 ## Projects
 This section contains selected artifacts and frameworks from my work. These examples highlight how I translate program management strategy into actionable deliverables.  
