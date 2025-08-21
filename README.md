@@ -40,10 +40,11 @@ For my full professional background, please see my [LinkedIn profile](https://ww
 ## Projects
 This section contains selected artifacts and frameworks from my work. These examples highlight how I translate program management strategy into actionable deliverables.  
 
-- **Splunk Dashboards** – Visualizations built for operational efficiency, spend tracking, and vendor allocation.  
-- **Governance Playbooks** – Templates for program intake, milestone tracking, and status reporting.  
-- **Process Frameworks** – Agile and hybrid execution models adapted for large-scale enterprises.  
-- **Customer Success Templates** – Adoption playbooks, stakeholder comms, and ROI dashboards.  
+- [Splunk Dashboards](projects/splunk.md) – Visualizations built for operational efficiency, spend tracking, and vendor allocation.  
+- [Governance Playbook](projects/governance-playbook.md) – Templates for program intake, milestone tracking, and status reporting.  
+- [Process Frameworks](projects/process-frameworks.md) – Agile and hybrid execution models adapted for large-scale enterprises.  
+- [Customer Success Templates](projects/customer-success.md) – Adoption playbooks, stakeholder comms, and ROI dashboards.  
+  
 
 (More content coming soon…)  
 
